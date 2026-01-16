@@ -4,6 +4,10 @@
   MY name is chris
 </div>
 
+int main () {
+std::cout << "Hello world" << std::endl; 
+}
+
 <!--
 **Chrissteam/Chrissteam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
